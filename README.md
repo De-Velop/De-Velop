@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
-<h3 align="center">Head of Competitive Robotics Department at ROBOTEK</h3>
+<h3 align="center">Competitive Robotics mentor at NIS Astana PhM</h3>
 
-- 🔭 I’m currently working on **REV Robotics, LEGO MINDSTORMS EV3**
-
-- 🌱 I’m currently learning **UNITY, MERN**
+- 🔭 I’m currently working on **FTC, WRO, FLL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/De-Velop](https://github.com/De-Velop)
 
